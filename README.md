@@ -126,7 +126,7 @@ p.greet()
 
 # 🧑‍💻 Author
 
-- **Mamun Bepari**
+- Mamun Bepari
 - Aspiring Software Engineer | Python Backend Developer
 
 ---
